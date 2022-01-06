@@ -1,0 +1,20 @@
+select ap8.html
+h1 { color: green }
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+  }
